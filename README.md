@@ -1,4 +1,4 @@
 # Olá, Mundo!
-Estudo de repositório versionado, do curso de Git e GitHub.
+📚💻 Estudo de REPOSITÓRIO VERSIONADO, do curso de Git e GitHub no Curso em Vídeo.
 
-Repositório criado durante as aulas do curso.
+📚 Este repositório foi criado durante as aulas!
